@@ -19,8 +19,8 @@ I'm passionate about coding, problem-solving, and exploring the world of technol
 - Learning more about algorithms and data structures  
 
 ### 📫 How to Reach Me:
-- Email: [your email here]  
-- LinkedIn: [your LinkedIn profile]  
+- Email: joehabre48@gmail.com 
+- Instagram: @joeehabre
 
 Feel free to check out my repositories and connect with me!  
 Thanks for stopping by! 😊
